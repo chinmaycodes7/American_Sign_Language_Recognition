@@ -1,6 +1,6 @@
-# Sign Language Recognition
+# American Sign Language Recognition
 
-A deep learning-based **Sign Language Recognition (SLR)** system designed to facilitate communication between **signers** and **non-signers**. The project focuses on recognizing hand gestures from camera input and translating them into meaningful characters, numbers, words, and phrases.
+A deep learning-based **Sign Language Recognition** system designed to facilitate communication between **signers** and **non-signers**. The project focuses on recognizing hand gestures from camera input and translating them into meaningful characters, numbers, words, and phrases.
 
 > 📄 **Research Paper:** [IEEE Xplore](https://ieeexplore.ieee.org/document/10307541)
 
