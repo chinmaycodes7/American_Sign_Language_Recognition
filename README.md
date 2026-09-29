@@ -86,3 +86,19 @@ This work was published through **IEEE**.
 The paper presents the proposed recognition system, custom dataset, preprocessing methodology, and the extension toward recognizing words and phrases.
 
 ---
+
+## 🖊 Citation
+
+If you use this work, please cite:
+
+```bibtex
+@INPROCEEDINGS{10307541,
+  author={Bhat, Chinmay and Rajeshirke, Rutuja and Chude, Sanskruti and Mhaiskar, Vanita},
+  booktitle={2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT)},
+  title={Two-way Communication: An Integrated System for American Sign Language Recognition and Speech-to-Text Translation},
+  year={2023},
+  pages={1-7},
+  keywords={Human computer interaction; Computer vision; Visualization; Text recognition; Sociology; Gesture recognition; Speech recognition; Sign language recognition; LeNet; CNN; speech-to-text; Neural network; Pattern recognition; Human-computer interaction (HCI)},
+  doi={10.1109/ICCCNT56998.2023.10307541}
+}
+
